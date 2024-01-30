@@ -1,0 +1,35 @@
+"Weapon_SMG1.Draw"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/smg1/smg1_draw.wav"
+}
+
+"Weapon_SMG1.Movement1"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/smg1/smg1_movement1.wav"
+}
+
+"Weapon_SMG1.Movement2"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/smg1/smg1_movement2.wav"
+}
+
+"Weapon_SMG1.Movement3"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/smg1/smg1_movement3.wav"
+}

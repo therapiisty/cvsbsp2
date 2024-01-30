@@ -1,0 +1,45 @@
+"Weapon_Pistol.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.55"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"wave"		"weapons/pistol/pistol_fire.wav"
+}
+
+"Weapon_Pistol.Magout"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.3"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_magout.wav"
+}
+
+"Weapon_Pistol.Magin"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_magin.wav"
+}
+
+"Weapon_Pistol.Slideback"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_slideback.wav"
+}
+
+"Weapon_Pistol.SlideForward"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.6"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_slideforward.wav"
+}

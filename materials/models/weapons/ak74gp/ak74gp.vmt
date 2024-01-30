@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/ak74gp/ak74gp"
+	"$bumpmap" "Models/Weapons/ak74gp/ak74gp_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$selfillum" "1"
+}

@@ -1,0 +1,53 @@
+"Weapon_AR2.Draw"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_draw.wav"
+}
+
+"Weapon_AR2.Inspect1"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_inspect1.wav"
+}
+
+"Weapon_AR2.Inspect2"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_inspect2.wav"
+}
+
+"Weapon_AR2.Movement1"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_movement1.wav"
+}
+
+"Weapon_AR2.Movement2"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_movement2.wav"
+}
+
+"Weapon_AR2.Movement3"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/ar2/ar2_movement3.wav"
+}

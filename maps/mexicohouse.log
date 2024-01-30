@@ -1,0 +1,1803 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 606592, max 266
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5174, 4642, 3222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(497, 386, 215)
+Build Patch/Sample Hash Table(s).....Done<0.0060 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       12072/393216   ( 3.1%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2343/65536       65604/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 606592, max 266
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5174, 4642, 3222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(497, 386, 215)
+Build Patch/Sample Hash Table(s).....Done<0.0078 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       12072/393216   ( 3.1%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2343/65536       65604/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 606592, max 266
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5174, 4642, 3222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(497, 386, 215)
+Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       12119/393216   ( 3.1%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2343/65536       65604/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 606592, max 266
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5174, 4642, 3222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(497, 386, 215)
+Build Patch/Sample Hash Table(s).....Done<0.0084 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       12115/393216   ( 3.1%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2343/65536       65604/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 605183, max 265
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5150, 4624, 3207)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(493, 383, 213)
+Build Patch/Sample Hash Table(s).....Done<0.0050 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18698/393216   ( 4.8%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2344/65536       65632/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1141105 Square Feet [164319232.00 Square Inches]
+913 patches before subdivision
+10225 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 605183, max 265
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(5150, 4624, 3207)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(493, 383, 213)
+Build Patch/Sample Hash Table(s).....Done<0.0049 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18698/393216   ( 4.8%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2344/65536       65632/1835008  ( 3.6%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]         362/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26881 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 66
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+913 faces
+4147536 square feet [597245184.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+913 patches before subdivision
+10417 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 546805, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3919, 3510, 2305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(339, 265, 138)
+Build Patch/Sample Hash Table(s).....Done<0.0035 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             480/65536        3840/524288   ( 0.7%) 
+planes                 420/65536        8400/1310720  ( 0.6%) 
+vertexes              1137/65536       13644/786432   ( 1.7%) 
+nodes                 1024/65536       32768/2097152  ( 1.6%) 
+texinfos                66/12288        4752/884736   ( 0.5%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  913/65536       51128/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              231/65536       12936/3670016  ( 0.4%) 
+leaves                1028/65536       32896/2097152  ( 1.6%) 
+leaffaces              943/65536        1886/131072   ( 1.4%) 
+leafbrushes            676/65536        1352/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4918/512000      19672/2048000  ( 1.0%) 
+edges                 2650/256000      10600/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18800/393216   ( 4.8%) 
+LDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+HDR ambient table     1028/65536        4112/262144   ( 1.6%) 
+LDR leaf ambient      2303/65536       64484/1835008  ( 3.5%) 
+HDR leaf ambient      1028/65536       28784/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       26881/4194304  ( 0.6%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2166
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27435 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 110 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10423 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 546930, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3920, 3511, 2305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(339, 265, 138)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 430/65536        8600/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18928/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2321/65536       64988/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       27435/4194304  ( 0.7%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27435 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 110 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10423 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 546930, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3920, 3511, 2305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(339, 265, 138)
+Build Patch/Sample Hash Table(s).....Done<0.0036 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 430/65536        8600/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18927/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2321/65536       64988/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       27435/4194304  ( 0.7%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27435 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 110 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1539 visible clusters (1.78%)
+Total clusters visible: 86546
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 309
+visdatasize:26100  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10423 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 546929, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3920, 3511, 2305)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(339, 265, 138)
+Build Patch/Sample Hash Table(s).....Done<0.0072 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 430/65536        8600/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       26100/16777216 ( 0.2%) 
+entdata               [variable]       18927/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2314/65536       64792/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       27435/4194304  ( 0.7%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27435 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 111 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.05%)
+Total clusters visible: 80849
+Average clusters visible: 261
+Building PAS...
+Average clusters audible: 305
+visdatasize:25895  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10423 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 547200, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3925, 3517, 2309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(338, 265, 138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46, 31, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0034 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 428/65536        8560/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25895/16777216 ( 0.2%) 
+entdata               [variable]       18927/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2303/65536       64484/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       27435/4194304  ( 0.7%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27435 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 111 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.05%)
+Total clusters visible: 80849
+Average clusters visible: 261
+Building PAS...
+Average clusters audible: 305
+visdatasize:25895  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10423 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 547340, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3932, 3523, 2314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(338, 265, 138)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46, 31, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 430/65536        8600/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts             486/0            9720/0        ( 0.0%) 
+disp_tris              768/0            1536/0        ( 0.0%) 
+disp_lmsamples      108016/0          108016/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25895/16777216 ( 0.2%) 
+entdata               [variable]       18927/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2303/65536       64484/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]       27435/4194304  ( 0.7%) 
+physics terrain       [variable]        1328/1048576  ( 0.1%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (374980 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 111 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.05%)
+Total clusters visible: 80849
+Average clusters visible: 261
+Building PAS...
+Average clusters audible: 305
+visdatasize:25895  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10429 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 546888, max 257
+transfer lists:   4.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3949, 3538, 2324)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(331, 259, 136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(44, 30, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0036 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_lmsamples      121507/0          121507/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25895/16777216 ( 0.2%) 
+entdata               [variable]       18928/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2297/65536       64316/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]      374980/4194304  ( 8.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (374980 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 111 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.05%)
+Total clusters visible: 80849
+Average clusters visible: 261
+Building PAS...
+Average clusters audible: 305
+visdatasize:25895  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10439 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 543603, max 257
+transfer lists:   4.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3933, 3524, 2314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(331, 259, 136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(44, 30, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0035 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_lmsamples      121507/0          121507/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25895/16777216 ( 0.2%) 
+entdata               [variable]       18928/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2290/65536       64120/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]      374980/4194304  ( 8.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (374964 bytes)
+Placing static props...
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 111 texinfos to 69
+Reduced 12 texdatas to 10 (317 bytes to 217)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.prt
+ 309 portalclusters
+ 610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 44 visible clusters (0.05%)
+Total clusters visible: 80849
+Average clusters visible: 261
+Building PAS...
+Average clusters audible: 305
+visdatasize:25895  compressed from 24720
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+919 faces
+4147973 square feet [597308160.00 square inches]
+6 Displacements
+1129830 Square Feet [162695536.00 Square Inches]
+919 patches before subdivision
+10435 patches after subdivision
+15 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 543342, max 257
+transfer lists:   4.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3933, 3524, 2314)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(331, 259, 136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(44, 30, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0033 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             486/65536        3888/524288   ( 0.7%) 
+planes                 432/65536        8640/1310720  ( 0.7%) 
+vertexes              1145/65536       13740/786432   ( 1.7%) 
+nodes                 1030/65536       32960/2097152  ( 1.6%) 
+texinfos                69/12288        4968/884736   ( 0.6%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                6/0            1056/0        ( 0.0%) 
+disp_verts            1734/0           34680/0        ( 0.0%) 
+disp_tris             3072/0            6144/0        ( 0.0%) 
+disp_lmsamples      121507/0          121507/0        ( 0.0%) 
+faces                  919/65536       51464/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              237/65536       13272/3670016  ( 0.4%) 
+leaves                1035/65536       33120/2097152  ( 1.6%) 
+leaffaces              949/65536        1898/131072   ( 1.4%) 
+leafbrushes            677/65536        1354/131072   ( 1.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4966/512000      19864/2048000  ( 1.0%) 
+edges                 2674/256000      10696/1024000  ( 1.0%) 
+LDR worldlights         15/65536        1320/5767168  ( 0.0%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             39/32768         390/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           693/65536        1386/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]      766868/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25895/16777216 ( 0.2%) 
+entdata               [variable]       18928/393216   ( 4.8%) 
+LDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+HDR ambient table     1035/65536        4140/262144   ( 1.6%) 
+LDR leaf ambient      2292/65536       64176/1835008  ( 3.5%) 
+HDR leaf ambient      1035/65536       28980/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]         718/0        ( 0.0%) 
+physics               [variable]      374964/4194304  ( 8.9%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2178
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp\maps\mexicohouse.bsp
+7 seconds elapsed

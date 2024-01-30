@@ -1,0 +1,35 @@
+"Weapon_Shotgun.Draw"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/shotgun/shotgun_draw.wav"
+}
+
+"Weapon_Shotgun.Movement1"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/shotgun/shotgun_movement1.wav"
+}
+
+"Weapon_Shotgun.Movement2"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/shotgun/shotgun_movement2.wav"
+}
+
+"Weapon_Shotgun.Movement3"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/shotgun/shotgun_movement3.wav"
+}

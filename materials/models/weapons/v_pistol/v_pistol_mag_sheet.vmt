@@ -1,0 +1,25 @@
+VertexLitGeneric {
+	$basetexture 				"models/weapons/v_pistol/v_pistol_mag_sheet_d"
+	$bumpmap 					"models/weapons/v_pistol/v_pistol_mag_sheet_n"
+	$phongexponenttexture 		"models/weapons/v_pistol/v_pistol_mag_sheet_g"
+	
+	$basemapalphaenvmapmask		1
+	$normalmapalphaphongmask	1
+	
+	//envmap settings
+	$envmap 					env_cubemap
+	$envmaptint 				"[0.33 0.33 0.33]"
+	$envmapfresnel				1
+	
+	//phong settings
+	$phong						1
+	$phongboost					2.7
+	$phongfresnelranges			"[0.15 0.7 1]"
+	//$phongalbedotint			1
+	
+	//rimlight settings
+	$rimlight					1
+	$rimmask					1
+	$rimlightboost				0.35
+	$rimlightexponent			100
+}

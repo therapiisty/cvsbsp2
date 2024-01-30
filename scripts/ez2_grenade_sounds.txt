@@ -1,0 +1,35 @@
+"WeaponFrag.Throw"
+{
+	"channel"	"CHAN_AUTO"
+	"volume"	"0.9"
+	"soundlevel"  "SNDLVL_NORM"
+
+	"wave"	"weapons/grenade/grenade_throw.wav"
+}
+
+"WeaponFrag.Roll"
+{
+	"channel"	"CHAN_AUTO"
+	"volume"	"0.9"
+	"soundlevel"  "SNDLVL_NORM"
+
+	"wave"	"weapons/grenade/grenade_throw2.wav"
+}
+
+"WeaponFrag.Pin"
+{
+	"channel"	"CHAN_WEAPON"
+	"volume"	"0.7"
+	"soundlevel"  "SNDLVL_75dB"
+
+	"wave"	"weapons/grenade/pin.wav"
+}
+
+"WeaponFrag.Draw"
+{
+	"channel"	"CHAN_AUTO"
+	"volume"	"0.9"
+	"soundlevel"  "SNDLVL_NORM"
+
+	"wave"	"weapons/grenade/grenade_draw.wav"
+}

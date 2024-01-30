@@ -1,0 +1,65 @@
+"Weapon_357.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"88,100"
+
+	"rndwave"
+	{
+		"wave"			"weapons/357/357_fire2.wav"
+		"wave"			"weapons/357/357_fire3.wav"
+	}
+}
+
+
+"Weapon_357.NPC_Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"88,100"
+
+	"rndwave"
+	{
+		"wave"			"weapons/357/357_fire2.wav"
+		"wave"			"weapons/357/357_fire3.wav"
+	}
+}
+
+"Weapon_357.NPC_Reload"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"weapons/357/reload1.wav"
+}
+
+"Weapon_357.Draw"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.7"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"weapons/357/357_draw.wav"
+}
+
+"Weapon_357.Holster"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.7"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"weapons/357/357_holster.wav"
+}
+
+"Weapon_357.Cock"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"weapons/357/357_hammer_prepare.wav"
+}
+

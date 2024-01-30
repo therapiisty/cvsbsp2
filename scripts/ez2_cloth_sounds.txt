@@ -1,0 +1,125 @@
+"EZ2Player.Clothmovement1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth1.wav"
+	}
+}
+
+"EZ2Player.Clothmovement2"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth2.wav"
+	}
+}
+
+"EZ2Player.Clothmovement3"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth3.wav"
+	}
+}
+
+"EZ2Player.Clothmovement4"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth4.wav"
+	}
+}
+
+"EZ2Player.Clothmovement5"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth5.wav"
+	}
+}
+
+"EZ2Player.Clothmovement6"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth6.wav"
+	}
+}
+
+"EZ2Player.Clothmovement7"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth7.wav"
+	}
+}
+
+"EZ2Player.Clothmovement8"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth8.wav"
+	}
+}
+
+"EZ2Player.Clothmovement9"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.85"
+	"pitch"			"90, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player/cloth/cloth9.wav"
+	}
+}

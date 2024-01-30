@@ -1,0 +1,44 @@
+"Weapon_Pistol.Clipout"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_clipout.wav"
+}
+
+"Weapon_Pistol.Clipin"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_clipin.wav"
+}
+
+"Weapon_Pistol.Slideback"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_slideback.wav"
+}
+
+"Weapon_Pistol.Slideforward"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_slideforward.wav"
+}
+
+"Weapon_Pistol.Slideforward"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"weapons/pistol/pistol_slideforward.wav"
+}

@@ -1,0 +1,87 @@
+// AK rifle, 5.45x39
+
+WeaponData
+{
+    // Weapon data is loaded by both the Game and Client DLLs.
+    "printname"             "AK74"
+    "viewmodel"             "models/weapons/v_ak74.mdl"
+    "playermodel"           "models/weapons/w_ak74.mdl"
+    "anim_prefix"           "AR2"
+    "bucket"                "2"
+    "bucket_position"       "3"
+    "bucket_360"            "1"
+    "bucket_position_360"   "0"
+
+    "clip_size"             "30"
+    "default_clip"          "30"
+
+    "clip2_size"            "-1"
+    "default_clip2"         "-1"
+
+    "primary_ammo"          "AK74"
+    "secondary_ammo"        "None"
+
+    "weight"                "3"
+    "rumble"                "3"
+    "item_flags"            "0"
+
+    "BuiltRightHanded"      "0"
+    "AllowFlipping"         "1"
+
+    // Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+    SoundData
+    {
+        "reload"            "Weapon_AK74.Reload"
+        "reload_npc"        "Weapon_AK74.NPC_Reload"
+        "empty"             "Weapon_AK74.Empty"
+        "single_shot"       "Weapon_AK74.Single"
+        "single_shot_npc"   "Weapon_AK74.NPC_Single"
+        "special1"          "Weapon_AK74.Special1"
+        "special2"          "Weapon_AK74.Special2"
+        "double_shot"       "Weapon_AK74.Double"
+        "burst"             "Weapon_AK74.Burst"
+    }
+
+    // Weapon Sprite data is loaded by the Client DLL.
+    TextureData
+    {
+        "weapon"
+        {
+                "font"      "WeaponIcons"
+                "character" "a"
+        }
+        "weapon_s"
+        {
+                "font"      "WeaponIconsSelected"
+                "character" "a"
+        }
+        "weapon_small"
+        {
+                "font"      "WeaponIconsSmall"
+                "character" "a"
+        }
+        "ammo"
+        {
+                "font"      "WeaponIconsSmall"
+                "character" "p"
+        }
+        "ammo2"
+        {
+                "font"      "WeaponIconsSmall"
+                "character" "t"
+        }
+        "crosshair"
+        {
+                "font"      "Crosshairs"
+                "character" "Q"
+        }
+        "autoaim"
+        {
+                "file"      "sprites/crosshairs"
+                "x"         "0"
+                "y"         "48"
+                "width"     "24"
+                "height"    "24"
+        }
+    }
+}
