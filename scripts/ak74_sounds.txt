@@ -6,7 +6,7 @@
 	"CompatibilityAttenuation"	"0.48"
 	"pitch"		"PITCH_NORM"
 
-	"wave"			"weapons/ak74/ak74_fire.wav"
+	"wave"			"weapons/ak74/ak74_fire2.wav"
 
 }
 
