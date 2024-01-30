@@ -15,6 +15,7 @@ game_sounds_manifest
 	"precache_file"		"scripts/ez2_revolver_sounds.txt"
 	"precache_file"		"scripts/ez2_shotgun_sounds.txt"
 	"precache_file"		"scripts/ez2_smg1_sounds.txt"
+	"precache_file"		"scripts/ak74_sounds.txt"
 
 	// HL2 World, Ambient Generic, Items, Physics, Vehicles
 	"precache_file"		"scripts/game_sounds_world.txt"

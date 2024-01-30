@@ -1,0 +1,62 @@
+"Weapon_AK74.Fire"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/ak74/ak74_fire.wav"
+
+}
+
+"Weapon_AK74.fire_npc"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.48"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons/ak74/ak74-1_npc.wav"
+
+}
+
+"Weapon_AK74.altfire"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.9"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,105"
+
+	"wave"			"weapons/ak74/gp25_shoot.wav"
+}
+
+"Weapon_AK74.ClipOut"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.8"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"		"weapons\ak74\magout.wav"
+}
+
+"Weapon_AK74.ClipIn"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.8"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"		"weapons\ak74\magin.wav"
+}
+
+"Weapon_AK74.draw"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"0.8"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"		"weapons\draw_ak.wav"
+}
