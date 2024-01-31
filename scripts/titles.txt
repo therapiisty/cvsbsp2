@@ -292,3 +292,15 @@ $fadeout 1.5
 $position -1 0.65
 $position -1 0.3
 
+//Developer Level Messages
+HINTPHYSGUN
+{
+custom wep. - physgun
+}
+
+HINTAK74
+{
+custom wep. - ak74 rifle
+}
+
+

@@ -48,22 +48,22 @@ WeaponData
         "weapon"
         {
                 "font"      "WeaponIcons"
-                "character" "a"
+                "character" "f"
         }
         "weapon_s"
         {
                 "font"      "WeaponIconsSelected"
-                "character" "a"
+                "character" "f"
         }
         "weapon_small"
         {
                 "font"      "WeaponIconsSmall"
-                "character" "a"
+                "character" "f"
         }
         "ammo"
         {
                 "font"      "WeaponIconsSmall"
-                "character" "p"
+                "character" "r"
         }
         "ammo2"
         {
