@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+$basetexture "models/props_vehicles/car_hatchback_a01_interior_color_png_932b3a89_albedo"
+$bumpmap     "models/props_vehicles/car_hatchback_a01_interior_normal_png_7f852133"
+$lightwarptexture     "models/props_vehicles/lightwarp_metallic" 
+$phongexponenttexture "models/props_vehicles/green"
+$phong 1
+$phongfresnelranges	"[.0 1 2]"
+$phongexponent "65"	
+$phongalbedotint 1
+$phongboost 15 
+	
+"$colorfix" "{255 255 255}"
+"Proxies"
+{
+"Equals"
+{
+srcVar1 $colorfix
+resultVar	$color
+}
+}
+}

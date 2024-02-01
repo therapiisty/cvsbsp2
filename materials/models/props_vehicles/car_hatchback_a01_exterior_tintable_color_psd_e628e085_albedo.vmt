@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_vehicles/car_hatchback_a01_exterior_tintable_color_psd_e628e085_albedo"
+              "$bumpmap"     "models/props_vehicles/car_hatchback_a01_exterior_normal_png_87d76852"
+$lightwarptexture     "models/props_vehicles/lightwarp_metallic" 
+$phongexponenttexture "models/props_vehicles/green"
+$phong 1
+$phongfresnelranges	"[.0 1 2]"
+$phongexponent "65"	
+$phongalbedotint 1
+$phongboost 15 
+
+
+$blendtintbybasealpha 1
+$blendtintcoloroverbase 0	
+resultVar $color2
+ default 0.75 0.75 0.75
+
+"Proxies"
+      {
+               "EntityRandom"
+                                {
+                                "scale" "1.99"
+                                "resultVar" "$frame"
+                                 }	
+}
