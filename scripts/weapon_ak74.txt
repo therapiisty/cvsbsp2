@@ -21,12 +21,9 @@ WeaponData
     "primary_ammo"          "AK74"
     "secondary_ammo"        "None"
 
-    "weight"                "3"
+    "weight"                "5"
     "rumble"                "3"
     "item_flags"            "0"
-
-    "BuiltRightHanded"      "0"
-    "AllowFlipping"         "1"
 
     // Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
     SoundData
