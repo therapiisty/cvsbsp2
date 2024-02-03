@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{ 
+
+	"$basetexture" "models/props/vinyl_player" 
+ 	"$surfaceprop" "plastic"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+	"$envmapcontrast" 1
+	"$bumpmap" "models/props/vinyl_player_normal"
+	"$normalmapalphaenvmapmask" 1
+}
