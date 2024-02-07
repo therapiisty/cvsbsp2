@@ -2,4 +2,5 @@
 {
 	"$basetexture" "posterscustom/swatposter"
 	"$surfaceprop" "Brick"
+	"$decalscale" "0.25"
 }
