@@ -1,0 +1,90 @@
+// Choreo version 1
+actor "!Target1"
+{
+  channel "WAV"
+  {
+    event speak "npc_guard_intro01"
+    {
+      time -0.046667 5.479682
+      param "npc_guard_intro01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "npc_guard_intro02"
+    {
+      time 9.066666 20.676643
+      param "npc_guard_intro02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "npc_guard_intro03"
+    {
+      time 26.187500 28.997114
+      param "npc_guard_intro03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "npc_guard_intro04"
+    {
+      time 31.520830 36.373802
+      param "npc_guard_intro04"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+actor "!Target2"
+{
+  channel "WAV"
+  {
+    event speak "jeremiah_intro01"
+    {
+      time 5.858332 8.691167
+      param "jeremiah_intro01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_intro02"
+    {
+      time 21.583334 25.652020
+      param "jeremiah_intro02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_intro03"
+    {
+      time 29.458334 30.990850
+      param "jeremiah_intro03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_intro04"
+    {
+      time 36.770832 39.650108
+      param "jeremiah_intro04"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+  }
+}
+
+scalesettings
+{
+  "CChoreoView" "28"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+  "RampTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off

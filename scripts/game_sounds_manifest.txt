@@ -126,4 +126,6 @@ game_sounds_manifest
    	"precache_file"		"scripts/npc_sounds_combine_cannon.txt"
 	"precache_file"		"scripts/npc_sounds_alyx_episodic2.txt"
 	"precache_file"		"scripts/npc_sounds_turret_episodic2.txt"
+	"precache_file"		"scripts/npc_sounds_guard.txt"
+	"precache_file"		"scripts/npc_sounds_jeremiah.txt
 }

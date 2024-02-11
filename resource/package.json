@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "esrun": "^3.2.26",
+    "fs": "^0.0.1-security",
+    "source-caption-compiler": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}

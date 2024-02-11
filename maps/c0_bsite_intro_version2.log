@@ -1,0 +1,1114 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3071257 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 845 texinfos to 614
+Reduced 37 texdatas to 34 (970 bytes to 832)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+1474 portalclusters
+4277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52055 visible clusters (3.65%)
+Total clusters visible: 1427667
+Average clusters visible: 968
+Building PAS...
+Average clusters audible: 1310
+visdatasize:508990  compressed from 566016
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+7036 faces
+71 degenerate faces
+2590035 square feet [372965120.00 square inches]
+46 Displacements
+806355 Square Feet [116115160.00 Square Inches]
+6965 patches before subdivision
+80811 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12663568, max 1132
+transfer lists:  96.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(27722, 16893, 8640)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3972, 2441, 1384)
+Build Patch/Sample Hash Table(s).....Done<0.0183 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes               1074/8192        12888/98304    (13.1%) 
+brushsides            8911/65536       71288/524288   (13.6%) 
+planes                3304/65536       66080/1310720  ( 5.0%) 
+vertexes             11554/65536      138648/786432   (17.6%) 
+nodes                 4158/65536      133056/2097152  ( 6.3%) 
+texinfos               614/12288       44208/884736   ( 5.0%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos               46/0            8096/0        ( 0.0%) 
+disp_verts           13294/0          265880/0        ( 0.0%) 
+disp_tris            23552/0           47104/0        ( 0.0%) 
+disp_lmsamples      594304/0          594304/0        ( 0.0%) 
+faces                 7036/65536      394016/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3072/65536      172032/3670016  ( 4.7%) 
+leaves                4161/65536      133152/2097152  ( 6.3%) 
+leaffaces             8293/65536       16586/131072   (12.7%) 
+leafbrushes           2659/65536        5318/131072   ( 4.1%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            47047/512000     188188/2048000  ( 9.2%) 
+edges                27027/256000     108108/1024000  (10.6%) 
+LDR worldlights         44/65536        3872/5767168  ( 0.1%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12249/65536       24498/131072   (18.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     6479420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      508990/16777216 ( 3.0%) 
+entdata               [variable]       39618/393216   (10.1%) 
+LDR ambient table     4161/65536       16644/262144   ( 6.3%) 
+HDR ambient table     4161/65536       16644/262144   ( 6.3%) 
+LDR leaf ambient      8136/65536      227808/1835008  (12.4%) 
+HDR leaf ambient      4161/65536      116508/1835008  ( 6.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5634     ( 0.0%) 
+pakfile               [variable]        1425/0        ( 0.0%) 
+physics               [variable]     3071257/4194304  (73.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20380
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3071257 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 845 texinfos to 614
+Reduced 37 texdatas to 34 (970 bytes to 832)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+1474 portalclusters
+4277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 52055 visible clusters (3.65%)
+Total clusters visible: 1427667
+Average clusters visible: 968
+Building PAS...
+Average clusters audible: 1310
+visdatasize:508990  compressed from 566016
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+7036 faces
+71 degenerate faces
+2590035 square feet [372965120.00 square inches]
+46 Displacements
+806355 Square Feet [116115160.00 Square Inches]
+6965 patches before subdivision
+80811 patches after subdivision
+44 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12663568, max 1132
+transfer lists:  96.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(27722, 16893, 8640)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3972, 2441, 1384)
+Build Patch/Sample Hash Table(s).....Done<0.0206 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes               1074/8192        12888/98304    (13.1%) 
+brushsides            8911/65536       71288/524288   (13.6%) 
+planes                3304/65536       66080/1310720  ( 5.0%) 
+vertexes             11554/65536      138648/786432   (17.6%) 
+nodes                 4158/65536      133056/2097152  ( 6.3%) 
+texinfos               614/12288       44208/884736   ( 5.0%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos               46/0            8096/0        ( 0.0%) 
+disp_verts           13294/0          265880/0        ( 0.0%) 
+disp_tris            23552/0           47104/0        ( 0.0%) 
+disp_lmsamples      594304/0          594304/0        ( 0.0%) 
+faces                 7036/65536      394016/3670016  (10.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3072/65536      172032/3670016  ( 4.7%) 
+leaves                4161/65536      133152/2097152  ( 6.3%) 
+leaffaces             8293/65536       16586/131072   (12.7%) 
+leafbrushes           2659/65536        5318/131072   ( 4.1%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            47047/512000     188188/2048000  ( 9.2%) 
+edges                27027/256000     108108/1024000  (10.6%) 
+LDR worldlights         44/65536        3872/5767168  ( 0.1%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12249/65536       24498/131072   (18.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     6479420/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      508990/16777216 ( 3.0%) 
+entdata               [variable]       39618/393216   (10.1%) 
+LDR ambient table     4161/65536       16644/262144   ( 6.3%) 
+HDR ambient table     4161/65536       16644/262144   ( 6.3%) 
+LDR leaf ambient      8136/65536      227808/1835008  (12.4%) 
+HDR leaf ambient      4161/65536      116508/1835008  ( 6.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5634     ( 0.0%) 
+pakfile               [variable]        1425/0        ( 0.0%) 
+physics               [variable]     3071257/4194304  (73.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20380
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3167326 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1265 texinfos to 853
+Reduced 50 texdatas to 41 (1589 bytes to 1403)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+2131 portalclusters
+6182 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 123237 visible clusters (4.22%)
+Total clusters visible: 2921462
+Average clusters visible: 1370
+Building PAS...
+Average clusters audible: 1929
+visdatasize:1051807  compressed from 1159264
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+9320 faces
+72 degenerate faces
+3230602 square feet [465206784.00 square inches]
+46 Displacements
+806355 Square Feet [116115176.00 Square Inches]
+9248 patches before subdivision
+116796 patches after subdivision
+74 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18455210, max 1132
+transfer lists: 140.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(69421, 32056, 18712)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10429, 4764, 2641)
+Build Patch/Sample Hash Table(s).....Done<0.0287 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               1346/8192        16152/98304    (16.4%) 
+brushsides           10583/65536       84664/524288   (16.1%) 
+planes                3852/65536       77040/1310720  ( 5.9%) 
+vertexes             15396/65536      184752/786432   (23.5%) 
+nodes                 5495/65536      175840/2097152  ( 8.4%) 
+texinfos               853/12288       61416/884736   ( 6.9%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos               46/0            8096/0        ( 0.0%) 
+disp_verts           13294/0          265880/0        ( 0.0%) 
+disp_tris            23552/0           47104/0        ( 0.0%) 
+disp_lmsamples      594304/0          594304/0        ( 0.0%) 
+faces                 9320/65536      521920/3670016  (14.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3814/65536      213584/3670016  ( 5.8%) 
+leaves                5501/65536      176032/2097152  ( 8.4%) 
+leaffaces            11001/65536       22002/131072   (16.8%) 
+leafbrushes           3503/65536        7006/131072   ( 5.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            61074/512000     244296/2048000  (11.9%) 
+edges                34978/256000     139912/1024000  (13.7%) 
+LDR worldlights         74/65536        6512/5767168  ( 0.1%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            916/32768        9160/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16278/65536       32556/131072   (24.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     7341816/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1051807/16777216 ( 6.3%) 
+entdata               [variable]       70648/393216   (18.0%) 
+LDR ambient table     5501/65536       22004/262144   ( 8.4%) 
+HDR ambient table     5501/65536       22004/262144   ( 8.4%) 
+LDR leaf ambient     15612/65536      437136/1835008  (23.8%) 
+HDR leaf ambient      5501/65536      154028/1835008  ( 8.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7648     ( 0.0%) 
+pakfile               [variable]        4441/0        ( 0.0%) 
+physics               [variable]     3167326/4194304  (75.5%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 26889
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3278592 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Static prop models/props_trainstation/trainstation_arch001.mdl outside the map (1758.00, 1248.00, 3712.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1625 texinfos to 1088
+Reduced 62 texdatas to 51 (2023 bytes to 1779)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+3014 portalclusters
+8792 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 607911 visible clusters (12.53%)
+Total clusters visible: 4849815
+Average clusters visible: 1609
+Building PAS...
+Average clusters audible: 2793
+visdatasize:1977081  compressed from 2314752
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+12577 faces
+74 degenerate faces
+3337167 square feet [480552128.00 square inches]
+46 Displacements
+806355 Square Feet [116115176.00 Square Inches]
+12503 patches before subdivision
+139213 patches after subdivision
+84 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 24487446, max 1343
+transfer lists: 186.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(88231, 74818, 52520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13489, 11437, 7099)
+Build Patch/Sample Hash Table(s).....Done<0.0322 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               1646/8192        19752/98304    (20.1%) 
+brushsides           13040/65536      104320/524288   (19.9%) 
+planes                5644/65536      112880/1310720  ( 8.6%) 
+vertexes             20812/65536      249744/786432   (31.8%) 
+nodes                 7326/65536      234432/2097152  (11.2%) 
+texinfos              1088/12288       78336/884736   ( 8.9%) 
+texdata                 51/2048         1632/65536    ( 2.5%) 
+dispinfos               46/0            8096/0        ( 0.0%) 
+disp_verts           13294/0          265880/0        ( 0.0%) 
+disp_tris            23552/0           47104/0        ( 0.0%) 
+disp_lmsamples      594304/0          594304/0        ( 0.0%) 
+faces                12577/65536      704312/3670016  (19.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4684/65536      262304/3670016  ( 7.1%) 
+leaves                7332/65536      234624/2097152  (11.2%) 
+leaffaces            14420/65536       28840/131072   (22.0%) 
+leafbrushes           5116/65536       10232/131072   ( 7.8%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            80117/512000     320468/2048000  (15.6%) 
+edges                45597/256000     182388/1024000  (17.8%) 
+LDR worldlights         84/65536        7392/5767168  ( 0.1%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1136/32768       11360/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20595/65536       41190/131072   (31.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     7961272/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1977081/16777216 (11.8%) 
+entdata               [variable]       79753/393216   (20.3%) 
+LDR ambient table     7332/65536       29328/262144   (11.2%) 
+HDR ambient table     7332/65536       29328/262144   (11.2%) 
+LDR leaf ambient     19924/65536      557872/1835008  (30.4%) 
+HDR leaf ambient      7332/65536      205296/1835008  (11.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11356    ( 0.0%) 
+pakfile               [variable]        5644/0        ( 0.0%) 
+physics               [variable]     3278592/4194304  (78.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 36004
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 2983.63)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 344.00, 2992.00), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 344.00, 3007.46), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (103.00, 568.00, 3003.80)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (-543.00, 568.00, 2998.57)
+Degenerate Triangle
+(-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 3008.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3039.86), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-220.00, 312.00, 2985.69), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2976.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-2804.00, 312.00, 2991.23), (-3127.00, 312.00, 3022.35), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3127.00, 312.00, 3022.35), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 2984.55), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 2948.12), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3696468 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Static prop models/props_trainstation/trainstation_arch001.mdl outside the map (1758.00, 1248.00, 3712.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1780 texinfos to 1199
+Reduced 67 texdatas to 56 (2141 bytes to 1897)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+3586 portalclusters
+10629 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 909560 visible clusters (12.54%)
+Total clusters visible: 7252779
+Average clusters visible: 2022
+Building PAS...
+Average clusters audible: 3349
+visdatasize:2830332  compressed from 3270432
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+14801 faces
+76 degenerate faces
+3616751 square feet [520812160.00 square inches]
+52 Displacements
+835423 Square Feet [120300984.00 Square Inches]
+14725 patches before subdivision
+220325 patches after subdivision
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 50090562, max 1759
+transfer lists: 382.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(243771, 249255, 167263)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39595, 39623, 22827)
+Build Patch/Sample Hash Table(s).....Done<0.0522 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               1840/8192        22080/98304    (22.5%) 
+brushsides           15367/65536      122936/524288   (23.4%) 
+planes                8340/65536      166800/1310720  (12.7%) 
+vertexes             24357/65536      292284/786432   (37.2%) 
+nodes                 8484/65536      271488/2097152  (12.9%) 
+texinfos              1199/12288       86328/884736   ( 9.8%) 
+texdata                 56/2048         1792/65536    ( 2.7%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts           15028/0          300560/0        ( 0.0%) 
+disp_tris            26624/0           53248/0        ( 0.0%) 
+disp_lmsamples      610481/0          610481/0        ( 0.0%) 
+faces                14801/65536      828856/3670016  (22.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5207/65536      291592/3670016  ( 7.9%) 
+leaves                8490/65536      271680/2097152  (13.0%) 
+leaffaces            16982/65536       33964/131072   (25.9%) 
+leafbrushes           6307/65536       12614/131072   ( 9.6%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            92332/512000     369328/2048000  (18.0%) 
+edges                52435/256000     209740/1024000  (20.5%) 
+LDR worldlights        108/65536        9504/5767168  ( 0.2%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1268/32768       12680/327680   ( 3.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22446/65536       44892/131072   (34.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]    10613396/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2830332/16777216 (16.9%) 
+entdata               [variable]       98834/393216   (25.1%) 
+LDR ambient table     8490/65536       33960/262144   (13.0%) 
+HDR ambient table     8490/65536       33960/262144   (13.0%) 
+LDR leaf ambient     25961/65536      726908/1835008  (39.6%) 
+HDR leaf ambient      8490/65536      237720/1835008  (13.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/13730    ( 0.0%) 
+pakfile               [variable]        5644/0        ( 0.0%) 
+physics               [variable]     3696468/4194304  (88.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 41645
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+34 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 2983.63)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 344.00, 2992.00), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 344.00, 3007.46), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (103.00, 568.00, 3003.80)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (-543.00, 568.00, 2998.57)
+Degenerate Triangle
+(-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 3008.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3039.86), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-220.00, 312.00, 2985.69), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2976.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-2804.00, 312.00, 2991.23), (-3127.00, 312.00, 3022.35), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3127.00, 312.00, 3022.35), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 2984.55), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 2948.12), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (0) (3708636 bytes)
+Placing static props...
+Static prop models/props_trainstation/trainstation_arch001.mdl outside the map (1758.00, 1248.00, 3712.00)
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1784 texinfos to 1200
+Reduced 67 texdatas to 56 (2141 bytes to 1897)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+3658 portalclusters
+10980 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 965592 visible clusters (12.37%)
+Total clusters visible: 7807923
+Average clusters visible: 2134
+Building PAS...
+Average clusters audible: 3424
+visdatasize:2954356  compressed from 3394624
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+14374 faces
+75 degenerate faces
+3615407 square feet [520618688.00 square inches]
+52 Displacements
+835423 Square Feet [120300984.00 Square Inches]
+14299 patches before subdivision
+175385 patches after subdivision
+108 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 31786383, max 1337
+transfer lists: 242.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(246067, 251821, 168572)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39587, 39518, 22674)
+Build Patch/Sample Hash Table(s).....Done<0.0362 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes               1878/8192        22536/98304    (22.9%) 
+brushsides           15757/65536      126056/524288   (24.0%) 
+planes                8480/65536      169600/1310720  (12.9%) 
+vertexes             23984/65536      287808/786432   (36.6%) 
+nodes                 8556/65536      273792/2097152  (13.1%) 
+texinfos              1200/12288       86400/884736   ( 9.8%) 
+texdata                 56/2048         1792/65536    ( 2.7%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts           15028/0          300560/0        ( 0.0%) 
+disp_tris            26624/0           53248/0        ( 0.0%) 
+disp_lmsamples      610481/0          610481/0        ( 0.0%) 
+faces                14374/65536      804944/3670016  (21.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5323/65536      298088/3670016  ( 8.1%) 
+leaves                8562/65536      273984/2097152  (13.1%) 
+leaffaces            16400/65536       32800/131072   (25.0%) 
+leafbrushes           6311/65536       12622/131072   ( 9.6%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            91150/512000     364600/2048000  (17.8%) 
+edges                51930/256000     207720/1024000  (20.3%) 
+LDR worldlights        108/65536        9504/5767168  ( 0.2%) 
+HDR worldlights          0/65536           0/5767168  ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1284/32768       12840/327680   ( 3.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22779/65536       45558/131072   (34.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/8192            0/2883584  ( 0.0%) 
+LDR lightdata         [variable]     9288632/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2954356/16777216 (17.6%) 
+entdata               [variable]       98834/393216   (25.1%) 
+LDR ambient table     8562/65536       34248/262144   (13.1%) 
+HDR ambient table     8562/65536       34248/262144   (13.1%) 
+LDR leaf ambient     27066/65536      757848/1835008  (41.3%) 
+HDR leaf ambient      8562/65536      239736/1835008  (13.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/13726    ( 0.0%) 
+pakfile               [variable]        5644/0        ( 0.0%) 
+physics               [variable]     3708636/4194304  (88.4%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40846
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+29 seconds elapsed

@@ -1,0 +1,76 @@
+"npc_guard_intro01"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_1.wav"         // this is the audio file
+}
+
+"npc_guard_intro02"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_2.wav"         // this is the audio file
+}
+
+"npc_guard_intro03"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_3.wav"         // this is the audio file
+}
+
+"npc_guard_intro04"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_4.wav"         // this is the audio file
+}
+
+"npc_guard_intro05"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_5.wav"         // this is the audio file
+}
+
+"npc_guard_intro06"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_6.wav"         // this is the audio file
+}
+
+"npc_guard_intro07"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\introguard\introguard_intro_7.wav"         // this is the audio file
+}
