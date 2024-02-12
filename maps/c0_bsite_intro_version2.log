@@ -1812,3 +1812,175 @@ Level flags = 0
 Total triangle count: 51665
 Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
 40 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2\materials
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.vmf
+Patching WVT material: maps/c0_bsite_intro_version2/nature/blendrockdirt_tunnel03a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4670.76, 746.76)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4622.96, 754.12), (-3212.00, 4622.96, 754.12), (-3212.00, 4576.91, 765.07)
+Degenerate Triangle
+(-3212.00, 4526.58, 776.65), (-3212.00, 4526.58, 776.65), (-3212.00, 4483.92, 778.97)
+Degenerate Triangle
+(-3212.00, 4439.41, 790.26), (-3212.00, 4481.75, 782.65), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4481.75, 782.65), (-3212.00, 4527.54, 773.66), (-3212.00, 4481.75, 782.65)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4395.90, 801.49)
+Degenerate Triangle
+(-3212.00, 4350.12, 817.63), (-3212.00, 4350.12, 817.63), (-3212.00, 4306.16, 837.58)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4307.92, 835.46)
+Degenerate Triangle
+(-3212.00, 4264.69, 852.39), (-3212.00, 4264.69, 852.39), (-3212.00, 4226.31, 868.19)
+Degenerate Triangle
+(-3212.00, 4171.49, 901.61), (-3212.00, 4214.57, 882.05), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-3212.00, 4214.57, 882.05), (-3212.00, 4263.97, 855.79), (-3212.00, 4214.57, 882.05)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 2983.63)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 344.00, 2992.00), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 344.00, 3007.46), (-4096.00, 328.00, 3034.56), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-4096.00, 328.00, 3034.56), (-4096.00, 312.00, 3034.57), (-4096.00, 328.00, 3034.56)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (103.00, 568.00, 3003.80)
+Degenerate Triangle
+(-220.00, 568.00, 3016.69), (-220.00, 568.00, 3016.69), (-543.00, 568.00, 2998.57)
+Degenerate Triangle
+(-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 3008.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3039.86), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-220.00, 312.00, 2985.69), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-866.00, 312.00, 2976.00), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-866.00, 312.00, 2992.00), (-543.00, 312.00, 3016.76), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-543.00, 312.00, 3016.76), (-220.00, 312.00, 3015.99), (-543.00, 312.00, 3016.76)
+Degenerate Triangle
+(-2804.00, 312.00, 2991.23), (-3127.00, 312.00, 3022.35), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3127.00, 312.00, 3022.35), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3127.00, 312.00, 3022.35)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 3019.29), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3450.00, 312.00, 2984.55), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-4096.00, 312.00, 2948.12), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-4096.00, 312.00, 3034.57), (-3773.00, 312.00, 3041.43), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(-3773.00, 312.00, 3041.43), (-3450.00, 312.00, 3019.29), (-3773.00, 312.00, 3041.43)
+Degenerate Triangle
+(3220.00, -1029.04, 646.82), (3220.00, -1029.04, 646.82), (3220.00, -978.76, 666.14)
+Degenerate Triangle
+(3220.00, -791.92, 717.60), (3220.00, -834.58, 713.89), (3220.00, -791.92, 717.60)
+done (1) (3941772 bytes)
+Placing static props...
+Error! To use model "models/props_mining/diesel_generator.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_mining/diesel_generator.mdl"!
+Static prop models/props_trainstation/trainstation_arch001.mdl outside the map (1758.00, 1248.00, 3712.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2457 texinfos to 1622
+Reduced 90 texdatas to 77 (3155 bytes to 2870)
+Writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+reading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.prt
+5438 portalclusters
+16783 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1921864 visible clusters (10.35%)
+Total clusters visible: 18572076
+Average clusters visible: 3415
+Building PAS...
+Average clusters audible: 4931
+visdatasize:6559707  compressed from 7395680
+writing c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\cvsbsp_chapter2\maps\c0_bsite_intro_version2.bsp
+18485 faces
+75 degenerate faces
+8444428 square feet [1215997568.00 square inches]
+52 Displacements
+835423 Square Feet [120300992.00 Square Inches]
+18410 patches before subdivision
+224354 patches after subdivision
+165 direct lights
+0...1...2...3...4...5...6...7...
