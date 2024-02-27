@@ -41,3 +41,102 @@
 
    "wave"      "vo\jeremiah\intro\intro_4.wav"         // this is the audio file
 }
+
+"jeremiah_mono01"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_1.wav"         // this is the audio file
+}
+
+"jeremiah_mono02"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_2.wav"         // this is the audio file
+}
+
+"jeremiah_mono03"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_3.wav"         // this is the audio file
+}
+
+"jeremiah_mono04"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_4.wav"         // this is the audio file
+}
+
+"jeremiah_mono05"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_5.wav"         // this is the audio file
+}
+
+"jeremiah_mono06"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_6.wav"         // this is the audio file
+}
+
+"jeremiah_mono07"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_7.wav"         // this is the audio file
+}
+
+"jeremiah_mono08"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_8.wav"         // this is the audio file
+}
+
+"jeremiah_mono09"          //This will be used inside the closedcaptions and sounds manifest file, name this whatever you want, but make sure they're uniquely named
+{
+   "channel"   "CHAN_VOICE"       // This is the audio channel that the file will use, you can use CHAN_VOICE for npc voice
+   "volume"   "0.6"              // This is the audio level of the file, 0.6 is fine for normal dialogue
+   "pitch"      "PITCH_NORM"          // This is the pitch, no need to touch this
+
+   "soundlevel"   "SNDLVL_TALKING"         // Similar to the volume but can be used to make the npc be heard from large distances
+
+   "wave"      "vo\jeremiah\monologue\monologue_9.wav"         // this is the audio file
+}

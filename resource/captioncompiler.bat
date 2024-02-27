@@ -1,2 +1,2 @@
-"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\captioncompiler.exe" %1 -game "C:\Program Files (x86)\Steam\steamapps\sourcemods\cvsbsp_chapter2"
+"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\captioncompiler.exe" -v "closecaption_english.txt" %1 -game "F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\hl2"
 pause

@@ -1,0 +1,93 @@
+// Choreo version 1
+actor "!Target1"
+{
+  channel "WAV"
+  {
+    event speak "jeremiah_mono01"
+    {
+      time 0.133333 1.851610
+      param "jeremiah_mono01"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono02"
+    {
+      time 3.380000 5.191156
+      param "jeremiah_mono02"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono03"
+    {
+      time 6.866666 9.374421
+      param "jeremiah_mono03"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono04"
+    {
+      time 10.746667 17.062494
+      param "jeremiah_mono04"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono05"
+    {
+      time 18.200001 25.862587
+      param "jeremiah_mono05"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono06"
+    {
+      time 26.959999 31.278912
+      param "jeremiah_mono06"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono07"
+    {
+      time 32.986668 40.138412
+      param "jeremiah_mono07"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono08"
+    {
+      time 41.860004 50.172749
+      param "jeremiah_mono08"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    event speak "jeremiah_mono09"
+    {
+      time 52.273335 60.911156
+      param "jeremiah_mono09"
+      fixedlength
+      cctype "cc_master"
+      cctoken ""
+    }
+    active "0"
+  }
+  active "0"
+}
+
+scalesettings
+{
+  "CChoreoView" "20"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "ExpressionTool" "100"
+  "GestureTool" "100"
+}
+fps 60
+snap off
+ignorePhonemes off
